@@ -1,0 +1,19 @@
+{
+  "name": "whippy-icons",
+  "version": "0.0.1",
+  "description": "The icon family of Whippy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whippy-io/whippy-icons.git"
+  },
+  "author": "dubemarcantoine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whippy-io/whippy-icons/issues"
+  },
+  "homepage": "https://github.com/whippy-io/whippy-icons#readme"
+}
