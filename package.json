@@ -1,6 +1,6 @@
 {
-  "name": "whippy-icons",
-  "version": "0.0.1",
+  "name": "@whippy/whippy-icons",
+  "version": "0.0.2",
   "description": "The icon family of Whippy",
   "main": "index.js",
   "scripts": {
