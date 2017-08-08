@@ -1,6 +1,6 @@
 {
   "name": "@whippy/whippy-icons",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "description": "The icon family of Whippy",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/whippy-io/whippy-icons/issues"
   },
-  "homepage": "https://github.com/whippy-io/whippy-icons#readme"
+  "homepage": "https://github.com/whippy-io/whippy-icons#readme",
+  "typings": "./types.d.ts"
 }
